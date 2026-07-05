@@ -6,7 +6,9 @@ An interactive HR Analytics dashboard built in **Microsoft Excel** to analyze em
 
 Dashboard Preview
 
-![Dashboard Preview](Dashboard/dashboard_image.png)
+<p align="center">
+<img src="Dashboard\dashboard_image.png" width="100%">
+</p>
 ---
 
 Project Objective
