@@ -7,7 +7,7 @@ An interactive HR Analytics dashboard built in **Microsoft Excel** to analyze em
 Dashboard Preview
 
 <p align="center">
-<img src="Dashboard\dashboard_image.png" width="100%">
+<img src="Dashboard\DashBoard.png" width="100%">
 </p>
 ---
 
